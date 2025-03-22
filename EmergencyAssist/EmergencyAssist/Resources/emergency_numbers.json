@@ -1,0 +1,38 @@
+{
+  "US": {
+    "id": "US",
+    "name": "United States",
+    "emergencyNumbers": {
+      "police": "911",
+      "fire": "911",
+      "ambulance": "911",
+      "additionalNumbers": {
+        "poison_control": "1-800-222-1222"
+      }
+    }
+  },
+  "GB": {
+    "id": "GB",
+    "name": "United Kingdom",
+    "emergencyNumbers": {
+      "police": "999",
+      "fire": "999",
+      "ambulance": "999",
+      "additionalNumbers": {
+        "non_emergency": "101"
+      }
+    }
+  },
+  "JP": {
+    "id": "JP",
+    "name": "Japan",
+    "emergencyNumbers": {
+      "police": "110",
+      "fire": "119",
+      "ambulance": "119",
+      "additionalNumbers": {
+        "coast_guard": "118"
+      }
+    }
+  }
+}
