@@ -24,7 +24,7 @@ A life-saving web application that provides travelers with quick access to emerg
 
 1. Clone the repository
 ```bash
-git clone https://github.com/yourusername/emergency-assist-web.git
+git clone https://github.com/aza-ali/emergency-assist-web.git
 cd emergency-assist-web
 ```
 
